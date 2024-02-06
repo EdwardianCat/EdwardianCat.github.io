@@ -1,3 +1,7 @@
+---
+permalink: /resume
+---
+
 # Resume
 ## Vivian Weiss Lab, Vanderbilt University Medical Center (10-12)
 ### Intern

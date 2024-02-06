@@ -4,3 +4,25 @@ Hey. Howdy. How ya doin. My name's Maya and I am a student at University School 
 ![me looking awesome](image.png)
 
 here I am bye bye
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Navigation</th>
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">Resume</td>
+<td markdown="span"> This is my resume for my high school carreer. [Click here!](./resume.md)</td>
+</tr>
+<tr>
+<td markdown="span">Art Portfolio</td>
+<td markdown="span"> This is my art from the past 3 years, click <a href="https://edwardiancat.github.io/art_portfolio/">here</a>! For more, check out my instagram @ShoeSprout.</td>
+</tr>
+</tbody>
