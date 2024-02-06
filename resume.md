@@ -23,6 +23,10 @@ Tutored children in math and English. Worked as a tutor for children who did not
 ### Archival Assistant 
 Organized documents pertaining to the Black high schools in Gallatin, TN. Found photographs which were used in the opening of the museum. On the team that organized the opening day. Ongoing preservation work for the First Baptist Church.
 
+## Spanish After-School Class (9-12)
+### Assistant Teacher
+Taught children in grades K-7 Spanish. Helped create and run learning activities. 
+
 ## ORGANIZATIONS
 
 ## Aliados (9-12)
@@ -31,7 +35,11 @@ Aliados works to promote Hispanic and Latino culture. Ran several club events an
 
 ## Gender and Sexuality Alliance (9-12)
 ### Leadership Team (10-12)
-Ran meetings with 90+ members. Gave educational presentations to the alliance and the school about queer history. Helped run many fundraisers and organize GSA sponsored events.
+Ran meetings with 90+ members, largest orginization in school. Gave educational presentations to the alliance and the school about queer history. Helped run many fundraisers and organize GSA sponsored events.
+
+## Dungeons and Dragons Club (9-12)
+### Participant 
+Run games for members. I write my own stories and characters for people to play with.
 
 ## SPORTS
 
