@@ -19,10 +19,14 @@ here I am bye bye
 <tbody>
 <tr>
 <td markdown="span">Resume</td>
-<td markdown="span"> This is my resume for my high school carreer. [Click here!](./resume.md)</td>
+<td markdown="span"> This is my resume for my high school carreer. Click <a href="https://edwardiancat.github.io/resume/">here</a>!</td>
 </tr>
 <tr>
 <td markdown="span">Art Portfolio</td>
 <td markdown="span"> This is my art from the past 3 years, click <a href="https://edwardiancat.github.io/art_portfolio/">here</a>! For more, check out my instagram @ShoeSprout.</td>
+</tr>
+<tr>
+<td markdown="span">Programming Portfolio</td>
+<td markdown="span"> These are my recent projects. Click <a href="https://edwardiancat.github.io/programming_portfolio/">here</a>!
 </tr>
 </tbody>
