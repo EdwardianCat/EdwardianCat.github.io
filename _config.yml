@@ -2,6 +2,6 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: "Maya Guha"
-description: "Why did the website bring a ladder? Cause it wanted to be at the top of the search results. My ladder worked, welcome to my website."
+title: [Maya Guha]
+description: [Why did the website bring a ladder? Cause it wanted to be at the top of the search results. My ladder worked, welcome to my website.]
 
