@@ -23,7 +23,7 @@ here I am bye bye
 </tr>
 <tr>
 <td markdown="span">Art Portfolio</td>
-<td markdown="span"> This is my art from the past 3 years, click [here!(https://edwardiancat.github.io/art_portfolio/)] For more, check out my instagram @ShoeSprout.</td>
+<td markdown="span"> This is my art from the past 3 years, click [here! (https://edwardiancat.github.io/art_portfolio/)] For more, check out my instagram @ShoeSprout.</td>
 </tr>
 <tr>
 <td markdown="span">Programming Portfolio</td>
