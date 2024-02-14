@@ -13,11 +13,10 @@ here I am bye bye
 
 <div class="datatable-begin"></div>
 
- Navigation                            | Links 
- ------------------------------------- | ------------ | 
- [Codewars Autograder](./autograder.md)| 08/06/2021   |
- [Health Wearables](./healthwear.md)   | 01/15/2024   |
- [Website](./website.md)               | 02/01/2024   | 
- [Resume](./resume.md)                 | 02/05/2024   | 
+ Navigation                                         | 
+ -------------------------------------------------- | 
+ [Resume](./resume.md)                              |
+ [Art Portfolio](./art_portfolio.md)                |
+ [Programming Portfolio](./programming_portfolio.md)| 
 
 <div class="datatable-end"></div>
