@@ -11,14 +11,10 @@ Hey. Howdy. How ya doin. My name's Maya and I am a student at University School 
 
 here I am bye bye
 
-# About
-
-I am a Computer Science Teacher at University School of Nashville. This is an archival website where I put ideas, projects, and updates.
-
 <div class="datatable-begin"></div>
 
- Project Name                           | Date Started | tags
- -------------------------------------- | ------------ | -----------
+ Navigation                            | Links 
+ ------------------------------------- | ------------ | 
  [Codewars Autograder](./autograder.md)| 08/06/2021   |
  [Health Wearables](./healthwear.md)   | 01/15/2024   |
  [Website](./website.md)               | 02/01/2024   | 
